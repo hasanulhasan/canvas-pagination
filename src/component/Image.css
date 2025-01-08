@@ -1,0 +1,8 @@
+.background-div {
+    background-image: url('https://www.merchly.com/cdn/shop/products/16804_f_fl.jpg?v=1699992277&width=1000');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+  }
